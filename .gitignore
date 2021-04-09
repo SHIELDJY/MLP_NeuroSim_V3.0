@@ -1,10 +1,6 @@
 # ignore .o Files
 *.o
-
 # ignore Traning tests
-
-*test
-*train
 
 patch10000_test.txt
 patch60000_train.txt
